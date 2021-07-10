@@ -13,9 +13,9 @@
     <string name="third_question">The U.S dollars are made from fibre</string>
     <string name="fourth_question">Sandwich is named after a person</string>
     <string name="fifth_question">A tiger has stripes on its skin</string>
-    <string name="sixth_question">Like we have Whitehouse for our President, there is Greenhouse /n for the President in Argentina</string>
+    <string name="sixth_question">Like we have Whitehouse for our President, there is Greenhouse \n for the President in Argentina</string>
     <string name="seventh_question">An ostrich has the largest eye in the world</string>
     <string name="eighth_question">Some 16 billion emails are sent today</string>
-    <string name="ninth_question">Gorilla\'s blood type is all "B"</string>
+    <string name="ninth_question">Gorilla\'s blood type is all \"B\"</string>
     <string name="tenth_question">Snoopy is yellow in Brazil</string>
 </resources>
